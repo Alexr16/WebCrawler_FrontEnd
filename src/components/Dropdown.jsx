@@ -1,8 +1,9 @@
 import React from 'react';
+import './Dropdown.css';
 
 const Dropdown = ({ options, value, onChange }) => {
   return (
-    <div className="dropdown-container">
+    <div className="filter-dropdown">
       <select
         className="dropdown"
         value={value}
