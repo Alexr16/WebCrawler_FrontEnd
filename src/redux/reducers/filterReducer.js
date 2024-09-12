@@ -1,4 +1,3 @@
-// filterReducer.js
 const initialState = '';
 
 const filterReducer = (state = initialState, action) => {

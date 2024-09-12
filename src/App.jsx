@@ -1,13 +1,15 @@
 import './App.css'
-
 import React from 'react'
-import Test from './pages/Test'
+import Test from './components/Table'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
-    <Test />
+    <>
+      <Navbar />
+      <Test />
+    </>
   )
 }
-
 
 export default App
