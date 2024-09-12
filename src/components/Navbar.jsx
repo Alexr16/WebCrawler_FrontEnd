@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <h1>Web Scraper</h1>
+        <h1>Web Crawler</h1>
       </div>
       <ul className="navbar-links">
         <li><a href="/"> <House size={24} /> </a></li>
