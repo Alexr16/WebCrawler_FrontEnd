@@ -19,7 +19,7 @@ This is a frontend project built with React and Redux for displaying and filteri
 
 ## Screenshots
 
-<img src="./src/assets/WebCrawler.jpg" width="300px">
+<img src="./src/assets/WebCrawler.jpg" >
 
 
 ## Setup Instructions
@@ -28,7 +28,7 @@ This is a frontend project built with React and Redux for displaying and filteri
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Alexr16/WebCrawler_BackEnd.git>
+   git clone <https://github.com/Alexr16/WebCrawler_FrontEnd.git>
 
 2. Navigate to the project directory:
     ```bash
@@ -46,4 +46,4 @@ This is a frontend project built with React and Redux for displaying and filteri
 ### Running Test
 1. To run the tests using Jest
    ```bash
-   npm tests
+   npm test
