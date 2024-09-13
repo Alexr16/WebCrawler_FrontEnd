@@ -3,6 +3,8 @@
 ## Description
 This is a frontend project built with React and Redux for displaying and filtering News entries scraped from an API.
 
+Before startin the app, make sure to install and run the backend server.
+
 [Backend Repository](https://github.com/Alexr16/WebCrawler_BackEnd)
 
 ## Features
@@ -39,7 +41,9 @@ This is a frontend project built with React and Redux for displaying and filteri
     npm install
 
 ### Running the application
-1. Start the server:
+1. Start the Backend server first (Review Bakend repository)
+
+2. Start the server:
    ```bash
    npm start
 
